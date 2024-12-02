@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("01 - Historian Histeria");
 
 
-string inputPath = "../../../input.csv";
+string inputPath = "../../../input.txt";
 int distance = 0;
 int similarity = 0;
 
